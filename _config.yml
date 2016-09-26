@@ -10,7 +10,7 @@ description: >
 keywords: > 
   HTML,PHP,CSS,ETC
 baseurl: ""
-url: "http://127.0.0.1:4000"
+url: "http://codesource.us"
 github_username:  CristianDeveloper
 
 markdown: kramdown
