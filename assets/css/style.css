@@ -5,6 +5,8 @@
  * @ver: 1.0 beta;
 */
 
+@import('main.scss');
+
 /* Fonts */
 @font-face {
     font-family: Gotham-Rounded;
