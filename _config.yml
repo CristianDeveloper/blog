@@ -12,5 +12,6 @@ keywords: >
 baseurl: ""
 url: "http://codesource.us"
 github_username:  CristianDeveloper
+theme: theme
 
 markdown: kramdown
