@@ -9,7 +9,7 @@
         <span><span class="user">{{page.owner}}</span>, writes on {{page.date | date: "%b %-d, %Y"}} in {{page.category}}</span>
     </div>
     <div class="page-view-content ">
-        {{content}}
+        {{ post.excerpt }}
     </div>
     <div class="page-comments">
         <div id="disqus_thread"></div>
