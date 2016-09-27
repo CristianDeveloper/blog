@@ -1,9 +1,0 @@
----
-title: My first post
-layout: post
-owner: Cristian
-category: HTML
-tags: html,php,javascript
-photo: default.png
----
-My first post
